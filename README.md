@@ -2,9 +2,7 @@
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project
-- 📫 @samia.akter.mumu.123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 samia.akter.mumu.123@gmail.com
 
 <!---
 mumu91104/mumu91104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
