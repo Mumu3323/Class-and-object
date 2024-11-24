@@ -2,9 +2,9 @@
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
 -  I'm Here:
-To collaborate with other beginners and experienced developers
-To contribute to open-source projects and learn from the community
-To document my learning journey and share my progress
+i.To collaborate with other beginners and experienced developers.
+ii.To contribute to open-source projects and learn from the community
+iii.To document my learning journey and share my progress
 - 📫 samia.akter.mumu.123@gmail.com
 
 <!---
