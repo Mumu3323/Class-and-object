@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Samia Akter Mumu
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on project
+-  I'm Here:
+To collaborate with other beginners and experienced developers
+To contribute to open-source projects and learn from the community
+To document my learning journey and share my progress
 - 📫 samia.akter.mumu.123@gmail.com
 
 <!---
