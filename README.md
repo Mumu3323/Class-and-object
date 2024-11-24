@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 -  I'm Here:
 i.To collaborate with other beginners and experienced developers.
-ii.To contribute to open-source projects and learn from the community
-iii.To document my learning journey and share my progress
+ii.To contribute to open-source projects and learn from the community.
+iii.To document my learning journey and share my progress.
 - 📫 samia.akter.mumu.123@gmail.com
 
 <!---
